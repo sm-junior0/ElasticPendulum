@@ -31,7 +31,7 @@ Everything runs 100 % in the browser once the Flask server delivers the page—n
 ✔ Zero external database or API dependencies—runs offline in the classroom.
 
 ## Screenshots
-> Paste your screenshot images here (e.g. `static/screenshots/plot.png`).
+![Elastic Pendulum Screenshot](static/a.png)
 
 ## Quick Start
 ```bash
